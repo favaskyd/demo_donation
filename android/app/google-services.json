@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1036601641062",
+    "project_id": "demodonor-1ecd4",
+    "storage_bucket": "demodonor-1ecd4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036601641062:android:b01aaec4665df6906205a7",
+        "android_client_info": {
+          "package_name": "com.example.demo_donation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036601641062-nfsak5jutnhonhfbfitofjovt44kovmt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8SlUsRllNJlAUjjzvw1zUMnv0o4PGb68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036601641062-nfsak5jutnhonhfbfitofjovt44kovmt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
